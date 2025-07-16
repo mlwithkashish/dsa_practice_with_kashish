@@ -1,5 +1,4 @@
-# dsa_practice_with_kashish
-My personal journey through Data Structures and Algorithms using C++. Practice problems, notes, and optimized code.
+
 # DSA Practice with Kashish 💻✨
 
 Welcome to my personal journey of mastering **Data Structures and Algorithms (DSA)** using **C++**. This repository contains well-organized practice problems, handwritten notes, and optimized code — all tailored to strengthen my problem-solving skills for coding interviews and competitive programming.
